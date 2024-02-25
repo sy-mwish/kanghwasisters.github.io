@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "kor"
-title                    : "강화 시스터즈"
+title                    : "강화시스터즈"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "강화 시스터즈"
-description              : "이화여자대학교 강화학습 동아리 강화 시스터즈입니다."
+name                     : "강화시스터즈"
+description              : "이화여자대학교  강화학습  동아리  강화시스터즈입니다."
 url                      : "https://kanghwasisters.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/kanghwasisters" # the subpath of your site, e.g. "/blog"
 repository               : "kanghwasisters/kanghwasisters.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,8 +107,8 @@ author:
   name             : "Jmin Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Ewha  Womans  University, South Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/KanghwaSisters"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/kanghwasisters?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
 
 # Site Footer
 footer:
