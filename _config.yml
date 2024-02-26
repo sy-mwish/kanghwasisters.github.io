@@ -59,18 +59,18 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jmin Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Ewha  Womans  University, South Korea"
+  name             : "강화시스터즈"
+  avatar           : "/assets/image/MainImage.png" # path of avatar image, e.g.
+  bio              : "이화여자대학교 **강화학습** 동아리입니다.     현재 이 블로그는 1기 운영진에 의해 관리되고 있습니다."
+  location         : "Ewha  Womans  University"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "tonnonssi@gmail.com" # 운영진 바뀔 때마다 변경 
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -282,11 +282,31 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: posts 
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      show_date : true
+      comments: true
       share: true
-      related: true
+      related: # true
+      toc: true
+
+      sidebar:
+        nav: "sidebar-category"
+
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      share: true
+      related: # true
+      toc: true
+
+      sidebar:
+        nav: "sidebar-category"
