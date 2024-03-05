@@ -1,3 +1,18 @@
+---
+title: "[강화시스터즈 1기] 개인 발표 일정 공지"
+excerpt: 강화시스터즈 1기 개인 발표 일정 # 미리보기로 보이는 부분
+categories: 기타
+tags: 
+    - [활동,계획,공지]
+toc: true
+toc_sticky: true
+comments: true
+author: Jimin Lee
+
+date: 2024-03-05
+
+---
+
 ## 개인 발표 일정
 
 | 주제 | 일시 | 담당자 |
