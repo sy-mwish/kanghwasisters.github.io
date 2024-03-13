@@ -50,3 +50,8 @@ OT 이후 첫 세션을 가졌습니다.😎 
     
 
 ## 사진
+![B89C86B7-819C-41F6-A52A-34D52BA01350](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/67c18261-47e8-479f-8e63-c6a4b0b14560)
+
+![image](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/8ed21125-628b-4445-a240-1abc30955ced)
+![image](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/5927af86-81a3-4606-a0fa-1a6abb808a2e)
+
