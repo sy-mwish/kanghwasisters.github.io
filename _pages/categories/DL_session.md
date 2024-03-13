@@ -2,7 +2,7 @@
 title: 24-1 딥러닝    스터디
 layout: category
 permalink: /categories/DL_session/
-taxonomy: 24-1  딥러닝    스터디
+taxonomy: 24-1딥러닝스터디
 ---
 
 {% assign posts = site.categories.categories %}
