@@ -58,3 +58,8 @@ Dataset을 상속받아 사용하는 CustomClass, train-valid-test dataset와 �
 CIFAR10은 3*32*32 크기의 이미지다. 하지만 내가 학습을 위해 인터넷에서 개고양이 사진을 무작위로 다운받는다면, 스케일링은 일정하지 않다. 이때 발생할 수 있는 문제점과 해결방안을 생각해보자. 
 
 ## 사진
+![IMG_8928](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/7c207d46-e3a5-4d20-9118-468a14ff65f4)
+![IMG_8929](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/d72daddb-4b48-47e9-8c1b-bfa4409bad23)
+![IMG_8930](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/113996f8-3f6b-4fcc-9ad6-153343ab76a5)
+
+
