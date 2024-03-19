@@ -40,3 +40,7 @@ namespace를 설명하고, python, C에서 namespace가 어떻게 적용되는�
     
 
 ## 사진
+![74BB2CD7-20B7-4923-987C-8E56254E05F1_1_102_o](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/fd7f7ebb-70ce-4709-b34b-ed07a91a77e3)
+![98BA8DC3-E98A-415F-9B01-DE13F44EE766_1_102_o](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/374b240b-7d7d-41f7-b999-3d09232b1963)
+![4104D2E2-43EB-4031-B824-A2A87A6DBD84_1_102_o](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/3e851e9c-73ae-4493-b763-5318e20c7405)
+
