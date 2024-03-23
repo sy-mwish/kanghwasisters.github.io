@@ -38,7 +38,7 @@ date: 2024-03-21
 1. Dataset class에 정의되어야 하는 매직 매소드 : __init__, __len__, __getitem__
 2. DataLoader의 기능과 반환값
 3. Net의 forward는 왜 매직 매소드가 아님에도 일반적인 매소드처럼 call하지 않는가?
----
+
 저번 코드 구현 시간에 가장 어려웠던 구현이 무엇인지 이야기를 나눴습니다. 아무래도 pytorch가 아직 익숙하지 않다보니, Dataset class를 상속받아 만드는 커스텀 Dataset class에서 공통적으로 어려움이 있었습니다. 이 부분을 보완하기 위해 매직 매소드 개념을 설명했고, getitem와 더불어 iterable한 성질에 대해 추가적으로 언급했습니다. 
 Dataset과 DataLoader 클래스는 파이토치를 이용한 딥러닝 구현에 무조건 필요한 구성인가에 대해 설명했습니다. 이 기능은 그저 pytorch에서 제공하는 유틸성 기능일 뿐이며, 가장 중요한 것은 Dataset과 DataLoader의 속성과 반환값의 형태임을 강조했습니다. 공부한 매직 매소드를 바탕으로 Net에서 forward 매소드가 어떻게 코드상에서 call되지 않아도 굴러가는지에 대해 공부해오기로 했습니다. 
 
