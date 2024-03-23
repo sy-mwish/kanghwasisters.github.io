@@ -47,3 +47,7 @@ Dataset과 DataLoader 클래스는 파이토치를 이용한 딥러닝 구현에
 1. **그래디언트 소실 문제는 input layer쪽으로 갈수록 심화된다.** 
 
 ## 사진
+![IMG_9040](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/cdc0b1d0-260d-4643-8f58-93d5cb8b3107)
+![IMG_9041](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9054c68b-f1c0-4bf2-ba91-72dba2b72297)
+![IMG_9042](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/cca1ce80-7ab3-4fdf-81c3-b45855d5277d)
+
