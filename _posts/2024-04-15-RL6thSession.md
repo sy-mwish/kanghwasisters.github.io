@@ -44,6 +44,9 @@ date: 2024-04-15
 4. 결과, 레퍼런스, 개발 일지 작성 규칙 정하기
 
 ## 사진
+![image](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/e1e10e41-d769-4ec8-8aa2-7ad48a87169b)
+![image](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/09d4f44b-453b-4aa3-8ec8-05bc5b182e07)
+<img width="1440" alt="IMG_9470" src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/ce1314bb-d9f2-412d-b2ed-be7124b2aa3b">
 
 
 
