@@ -35,7 +35,8 @@ date: 2024-04-15
 | 2팀 | 이은나 | 김정은 |
 
 ## 타임라인
-![Alt text](image.png)
+![image](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/82bdc858-9fc2-4f5a-b674-df73d6e5c6ca)
+
 
 ## 협업 기반 다지기
 1. 조별로 코딩 규칙 정하기 
