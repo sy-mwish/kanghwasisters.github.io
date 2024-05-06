@@ -1,9 +1,9 @@
 ---
 title: "[24-1 Project] 지뢰찾기 대회"
 excerpt: "1기 프로젝트 주제 : 지뢰찾기 Agent, Env 구현" # 미리보기로 보이는 부분
-categories: 기타
+categories: 프로젝트
 tags: 
-    - [기타, 공지, 대회]
+    - [공지, 대회]
 toc: true
 toc_sticky: true
 comments: true

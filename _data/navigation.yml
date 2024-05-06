@@ -21,7 +21,7 @@ sidebar-category:
         url: "/categories/RL_session"
       - title: "24-1  딥러닝  스터디"
         url: "/categories/DL_session"
-      - title: "프로젝트  구현"
+      - title: "프로젝트"
         url:  "/categories/projects"
       - title: "활동  보고서"
         url:  "/categories/reports/"

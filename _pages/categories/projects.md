@@ -1,8 +1,8 @@
 ---
-title: 프로젝트 구현
+title: 프로젝트
 layout: category
 permalink: /categories/projects/
-taxonomy: 프로젝트  구현
+taxonomy: 프로젝트
 ---
 
 {% assign posts = site.categories.categories %}
