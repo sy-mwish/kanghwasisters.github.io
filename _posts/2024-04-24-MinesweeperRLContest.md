@@ -15,6 +15,9 @@ date: 2024-04-24
 ## 강화시스터즈 1기 프로젝트 주제 : 지뢰찾기 
 강화시스터즈 1기에서 중장기 프로젝트, **RL로 해결하는 지뢰찾기**를 진행합니다!  
 
+### 포스터
+![image](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/2d6ac5c6-57fd-49b1-9115-7e323015c71e)
+
 ### 🏆 대회 세부내용 
 
 **개최 기간** : 2024.04 - 07  
