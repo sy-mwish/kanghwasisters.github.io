@@ -11,7 +11,7 @@ date: 2024-05-07
 
 ---
 ## Main Projects
-[24-1 : MineSweeper ](#Projects)
+[24-1 : MineSweeper ](#projects)
 
 ## 24-1
 ### 🗓️ Syllabus 
