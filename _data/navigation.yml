@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "AboutUs"
-    url: /categories/aboutUs/
-  - title: "Archives"
-    url: /categories/archives/
+    url: /AboutUS/
+  - title: "Archivements"
+    url: /Achievements/
   - title: "Members"
     url: /Members/
   # - title: "Sample Collections"
