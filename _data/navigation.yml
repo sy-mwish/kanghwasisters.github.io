@@ -2,7 +2,7 @@
 main:
   - title: "AboutUs"
     url: /AboutUS/
-  - title: "Archivements"
+  - title: "Achivements"
     url: /Achievements/
   - title: "Members"
     url: /Members/
