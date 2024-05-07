@@ -5,7 +5,7 @@ main:
   - title: "Archives"
     url: /categories/archives/
   - title: "Members"
-    url: /categories/members/
+    url: /Members/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
