@@ -17,7 +17,9 @@ date: 2024-05-07
 ### 🗓️ Syllabus 
 
 ### Projects 
-> **MineSweeper : RL**  
+> **MineSweeper : RL**
+
+<img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/2d6ac5c6-57fd-49b1-9115-7e323015c71e" width=250/>
 
 - 결과 정리 사이트 : 
 
