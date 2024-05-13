@@ -41,4 +41,9 @@ date: 2024-05-13
   - epsilon_min에 닿기 전에 에피소드 iteration이 끝나면 이상함
 - action을 string을 혼용하는 것보다, int로 추상화시켜 표현하는 것이 편하다. 
 ## 사진
+![IMG_9869](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/58a7c2d2-2be2-4780-85ff-855d3c5355e6)
+![IMG_9870](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/148bc071-8867-4a39-a148-343fcd7d05f1)
+![IMG_9867](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/09b3163f-88b2-47bc-ac72-06278275fba2)
+
+
 
