@@ -1,9 +1,9 @@
 ---
-title: "[07주차/강화학습 세션] 슬롯머신 문제-DQN으로 구현"
+title: "[07주차/강화학습 세션/프로젝트intro] 슬롯머신 문제-DQN으로 구현"
 excerpt: "슬롯머신 문제,DQN" # 미리보기로 보이는 부분
 categories: 24-1강화학습세션
 tags: 
-    - [강화학습, 정규세션]
+    - [강화학습, 정규세션, 프로젝트]
 toc: true
 toc_sticky: true
 comments: true
