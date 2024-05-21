@@ -24,6 +24,7 @@ date: 2024-05-20
 코드를 운영진이 취합해, agent 코드 구현에서 실수한 점, 잘한 점, 좋은 아이디어를 조원들과 함께 나누었습니다. 
 ### 깃허브 링크
 Preview✨  
+![image](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/81baadc8-3b03-4b7e-8066-de67efe451ee)  
 
 [https://github.com/KanghwaSisters/Slot_Machine_DQN.git](https://github.com/KanghwaSisters/Slot_Machine_DQN.git)
 - `ReadMe`에 진행한 코드 리뷰 내용이 저장되어 있습니다.  
@@ -47,5 +48,9 @@ Preview✨
 
 
 ## 사진
+![IMG_9934](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/4aa4b53e-08f1-4cad-9d4a-f981859d55d2)
+![IMG_9935](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/7c2fee98-18eb-471c-a9cd-dd0699c65b63)
+![IMG_9933](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/50c2222e-941e-4660-915b-965dc0b0c265)
+![IMG_9933](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/897d9f11-73e8-482a-82ec-e9c0b263db09)
 
 
