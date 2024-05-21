@@ -51,6 +51,6 @@ Preview✨
 ![IMG_9934](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/4aa4b53e-08f1-4cad-9d4a-f981859d55d2)
 ![IMG_9935](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/7c2fee98-18eb-471c-a9cd-dd0699c65b63)
 ![IMG_9933](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/50c2222e-941e-4660-915b-965dc0b0c265)
-![IMG_9933](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/897d9f11-73e8-482a-82ec-e9c0b263db09)
+![IMG_9931](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/31cd1266-7bea-418b-9db8-8652f4dd7434)
 
 
