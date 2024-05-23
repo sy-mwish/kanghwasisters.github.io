@@ -51,5 +51,9 @@ reward에 대한 의견을 나누었습니다.
 
 
 ## 사진
+![IMG_9970](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/19e48c7a-199f-43d9-89d8-c6bc23f67731)  
 
+![IMG_9971](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/dccb43bc-9c22-411f-a45f-cc2bc205b2cb)  
+
+![IMG_9973](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/345dac2a-4c32-4113-acda-56e76f888778)  
 
