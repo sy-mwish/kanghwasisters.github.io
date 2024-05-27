@@ -60,3 +60,7 @@ interval print에 어떤 정보가 들어가야 하는지 고민하고, 이미 �
      - 추가적인 룰 없이, 강화학습 방법론만을 사용해 해결하는 방법
 
 ## 사진
+![IMG_0013](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/5443d986-9653-41f8-ab00-2b6aa1721b74)
+![IMG_0010](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/e364d05f-3ccf-4c5d-8a5f-50a1124bee6c)
+![IMG_0014](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/e45f21f9-1929-4af7-b957-1c764b7c3649)
+![IMG_0016](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/1920d6aa-4b91-4e5f-a913-090195213802)
