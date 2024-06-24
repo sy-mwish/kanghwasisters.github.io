@@ -45,7 +45,7 @@ interval print에 어떤 정보가 들어가야 하는지 고민하고, 이미 �
 따라서 강화학습을 구현할 때는 loss 이외의 학습평가 지표가 필요하다. 
 지뢰찾기 테스크에서는 한 에피소드마다 몇 번 클릭되었는지, 에피소드 별 총 보상이 얼마인지, 이 게임을 이겼는지 졌는지가 학습의 지표가 될 수 있다. 
 또한 특정 n개의 에피소드 단위로 출력을 하는 것은 그간의 상황을 보여주기 위함이기에 출력 구간의 정보를 모두 포함할 수 있는 지표(ex mean)를 사용해 나타내는 것이 좋다. 
-또한 강화학습에서는 하이퍼파라미터 튜닝이 중요한데, 이 값을 시각화해서 볼 수 있게 replay memory가 차는 정도나, 현재의 epsilon 값을 보여주는 것 또한 중요하다. 
+또한 강화학습에서는 하이퍼파라미터 튜닝이 중요하기에,replay memory가 차는 정도나, 현재의 epsilon 값을 시각화시키는 것이 좋다. 
 
 ### 이미 까진 타일을 또 누르는 경우
 **@ 지뢰마스터즈 01팀, AI 폭탄 제거 부대 01팀**   
@@ -59,3 +59,7 @@ interval print에 어떤 정보가 들어가야 하는지 고민하고, 이미 �
      - 추가적인 룰 없이, 강화학습 방법론만을 사용해 해결하는 방법
 
 ## 사진
+![IMG_0013](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/5443d986-9653-41f8-ab00-2b6aa1721b74)
+![IMG_0010](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/e364d05f-3ccf-4c5d-8a5f-50a1124bee6c)
+![IMG_0014](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/e45f21f9-1929-4af7-b957-1c764b7c3649)
+![IMG_0016](https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/1920d6aa-4b91-4e5f-a913-090195213802)
