@@ -1,5 +1,5 @@
 ---
-title: "[09주차-2/프로젝트] 지뢰찾기 agent, env 구현"  
+title: "[09주차-02/프로젝트] 지뢰찾기 agent, env 구현"  
 excerpt: "지뢰찾기 agent, env 구현" # 미리보기로 보이는 부분  
 categories: 프로젝트  
 tags: 
