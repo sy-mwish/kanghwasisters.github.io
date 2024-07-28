@@ -16,8 +16,6 @@ date: 2024-07-25
 
 ![pngwing com](https://github.com/user-attachments/assets/3f7c2f2a-3f26-40bb-9dfc-281ef05088b7)
 
-> 24-1 강화시스터즈 1기 멤버들 ✨✨
-
 <table border="0">
   
 <tr>
