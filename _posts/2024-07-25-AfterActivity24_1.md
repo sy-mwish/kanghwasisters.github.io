@@ -1,7 +1,7 @@
 ---
 title: "[24-1 / 1기] 활동 보고서 "
 excerpt: "1기 멤버 활동 보고서" # 미리보기로 보이는 부분
-categories: 활동 보고서
+categories: 활동보고서
 tags: 
     - [공지, 활동보고서]
 toc: true
@@ -22,7 +22,7 @@ date: 2024-07-25
   
 <tr>
 <td style="width: 150px;">
-<img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9b15a11a-6e72-48dc-a74b-c58ddddd9bfe" width=150/>
+<img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9b15a11a-6e72-48dc-a74b-c58ddddd9bfe" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -33,7 +33,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/d6b1a41a-1b17-420a-b873-7e734c5664a1" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/d6b1a41a-1b17-420a-b873-7e734c5664a1" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -46,7 +46,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;"> 
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/ae8b36be-3208-421b-868e-80f07f64330c" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/ae8b36be-3208-421b-868e-80f07f64330c" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -62,7 +62,7 @@ date: 2024-07-25
 <tr>
 
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/42f424ad-55d9-4667-87ef-db98277ebf45" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/42f424ad-55d9-4667-87ef-db98277ebf45" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -76,7 +76,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/efe07f73-3084-4e63-a0fe-194a1aaf5f62" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/efe07f73-3084-4e63-a0fe-194a1aaf5f62" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -87,7 +87,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/f67370fe-96b5-48b4-ae3f-b42c4577c40d" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/f67370fe-96b5-48b4-ae3f-b42c4577c40d" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -100,7 +100,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/c0973c52-ca3c-4a4c-9d8a-b68df7055cc4" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/c0973c52-ca3c-4a4c-9d8a-b68df7055cc4" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -115,7 +115,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9999d4b7-731d-449a-802b-3d5748aa4c40" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9999d4b7-731d-449a-802b-3d5748aa4c40" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -129,7 +129,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/3ae115a8-8b91-4341-90d4-830ffb9e5d83" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/3ae115a8-8b91-4341-90d4-830ffb9e5d83" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
