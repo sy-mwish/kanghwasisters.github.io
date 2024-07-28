@@ -14,8 +14,9 @@ date: 2024-07-25
 ---
 ## 24-1 1기 멤버들의 활동 수기
 
-> 동아리원들의 진솔한 후기 ✨✨  
+![pngwing com](https://github.com/user-attachments/assets/3f7c2f2a-3f26-40bb-9dfc-281ef05088b7)
 
+> 동아리원들의 진솔한 후기 ✨✨  
 
 <table border="0">
 
