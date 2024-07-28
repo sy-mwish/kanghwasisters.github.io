@@ -35,3 +35,9 @@ date: 2024-07-22
 
 
 ## 사진
+![IMG_0770](https://github.com/user-attachments/assets/e32f0171-8504-4c2c-833c-51eb98b488e6)
+![IMG_0520](https://github.com/user-attachments/assets/96a1fcf1-308b-4853-8386-48a94491f3c7)
+![IMG_0518](https://github.com/user-attachments/assets/e57ccb87-7520-44ff-a715-59bf04a2c55b)
+![IMG_0662](https://github.com/user-attachments/assets/b0e59463-e5e1-40cf-a2bd-c7753e3ff947)
+![IMG_0719](https://github.com/user-attachments/assets/1a4e76b0-d767-4b26-bc50-a9704876e4b6)
+![IMG_0717](https://github.com/user-attachments/assets/fc5b3436-bd06-41d0-9f5f-78c0be17eaa8)
