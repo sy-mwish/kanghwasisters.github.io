@@ -1,7 +1,7 @@
 ---
 title: "[24-1 / 1기] 활동 보고서 "
 excerpt: "1기 멤버 활동 보고서" # 미리보기로 보이는 부분
-categories: 활동 보고서
+categories: 활동보고서
 tags: 
     - [공지, 활동보고서]
 toc: true
@@ -14,14 +14,15 @@ date: 2024-07-25
 ---
 ## 24-1 1기 멤버들의 활동 수기
 
-> 동아리원들의 진솔한 후기 ✨✨  
+![pngwing com](https://github.com/user-attachments/assets/3f7c2f2a-3f26-40bb-9dfc-281ef05088b7)
 
+> 24-1 강화시스터즈 1기 멤버들 ✨✨
 
 <table border="0">
   
 <tr>
 <td style="width: 150px;">
-<img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9b15a11a-6e72-48dc-a74b-c58ddddd9bfe" width=150/>
+<img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9b15a11a-6e72-48dc-a74b-c58ddddd9bfe" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -32,7 +33,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/d6b1a41a-1b17-420a-b873-7e734c5664a1" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/d6b1a41a-1b17-420a-b873-7e734c5664a1" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -45,7 +46,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;"> 
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/ae8b36be-3208-421b-868e-80f07f64330c" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/ae8b36be-3208-421b-868e-80f07f64330c" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -61,7 +62,7 @@ date: 2024-07-25
 <tr>
 
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/42f424ad-55d9-4667-87ef-db98277ebf45" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/42f424ad-55d9-4667-87ef-db98277ebf45" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -75,17 +76,21 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/efe07f73-3084-4e63-a0fe-194a1aaf5f62" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/efe07f73-3084-4e63-a0fe-194a1aaf5f62" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
 <b style="font-size:15px">손주현 (Juhyun Son)</b> <hr> 
 머신러닝이나 딥러닝에 관해서도 잘 모른 상태로 막연하게 인공지능 분야를 한번 맛보고 싶다는 생각에 지원했는데 강화시스터즈를 통해서 제대로 배울 수 있어 좋았습니다. 매주 진행한 딥러닝 세미나를 통해서 딥러닝도 함께 공부할 수 있었고, 동시에 정규 세션에서 강화학습을 배우면서 둘 간의 차이를 학습할 수 있어 좋았습니다. 이렇게 효율적으로 단기간에 인공지능 분야에서에서의 개발을 해보고, 배경지식을 쌓을 수 있어 좋았습니다. 특히 회장님이 거의 강의하듯 열심히 알려주셔서 너무 고마웠습니당..❤️❤️ 강화 시스터즈 최고❤️❤️❤️  
+<<<<<<< HEAD
+=======
+ </td>   
+>>>>>>> 0f92a853aaa2d786d22b0ed270d9be7d29aef4e0
 </tr>
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/f67370fe-96b5-48b4-ae3f-b42c4577c40d" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/f67370fe-96b5-48b4-ae3f-b42c4577c40d" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -98,7 +103,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/c0973c52-ca3c-4a4c-9d8a-b68df7055cc4" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/c0973c52-ca3c-4a4c-9d8a-b68df7055cc4" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -113,7 +118,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9999d4b7-731d-449a-802b-3d5748aa4c40" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/9999d4b7-731d-449a-802b-3d5748aa4c40" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
@@ -127,7 +132,7 @@ date: 2024-07-25
 
 <tr>
 <td style="width: 150px;">
-    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/3ae115a8-8b91-4341-90d4-830ffb9e5d83" width=150/>
+    <img src="https://github.com/KanghwaSisters/kanghwasisters.github.io/assets/126959470/3ae115a8-8b91-4341-90d4-830ffb9e5d83" width=150 style="display:block; margin:auto;"/>
     </td>
 
 <td>
