@@ -6,13 +6,27 @@ main:
     url: /Achievements/
   - title: "Members"
     url: /Members/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
  
 # side bar 
 sidebar-category:
+  - title: "강화시스터즈 활동 내역"
+    children:
+      - title: "공지"
+        url:  "/categories/etc/"
+      - title: "활동보고서"
+        url:  "/categories/reports/"
+      
+
+  - title: "24-2  Archives"
+    children:
+      - title: "학습 기록"
+        url: "/categories/24-2-study-records"
+      - title: "24-2  메인 세션"
+        url: "/categories/24-2-main-session"
+      - title: "24-2 프로젝트"
+        url: "/categories/24-2-projects"
+
+
   - title: "24-1  Archives"
     children:
       - title: "개념  정리"
@@ -21,9 +35,6 @@ sidebar-category:
         url: "/categories/RL_session"
       - title: "24-1  딥러닝  스터디"
         url: "/categories/DL_session"
-      - title: "프로젝트"
+      - title: "24-1 프로젝트"
         url:  "/categories/projects"
-      - title: "활동  보고서"
-        url:  "/categories/reports/"
-      - title: "기타"
-        url:  "/categories/etc/"
+
