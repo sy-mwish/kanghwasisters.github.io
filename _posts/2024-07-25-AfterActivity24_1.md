@@ -1,7 +1,7 @@
 ---
 title: "[24-1 / 1기] 활동 수기"
 excerpt: "1기 멤버 활동 수기" # 미리보기로 보이는 부분
-categories: 활동 수기
+categories: 활동수기
 tags: 
     - [공지, 활동수기]
 toc: true
