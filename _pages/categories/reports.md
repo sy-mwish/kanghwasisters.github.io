@@ -1,8 +1,8 @@
 ---
-title: 활동보고서
+title: 활동 수기
 layout: category
 permalink: /categories/reports/
-taxonomy: 활동보고서
+taxonomy: 활동 수기
 ---
 
 {% assign posts = site.categories.categories %}

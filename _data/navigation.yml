@@ -13,7 +13,7 @@ sidebar-category:
     children:
       - title: "공지"
         url:  "/categories/etc/"
-      - title: "활동보고서"
+      - title: "활동 수기"
         url:  "/categories/reports/"
       
 
