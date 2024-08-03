@@ -30,8 +30,6 @@ date: 2024-08-03
 
 **강화 시스터즈**는 <b style="color:#00664F;">프로젝트 중심 동아리</b>입니다. 이론을 배우고, 습득한 이론을 바탕으로 프로젝트를 진행합니다. 프로젝트 주제는 매 학기마다 달라지며, 24-2 학기에는 <a style="color:#00664F;"> 멀티 에이전트를 이용하는 틱택토 구현 + @</a>를 계획하고 있습니다.  
 
-
-
 ### 스스로 공부하는 동아리
 **강화 시스터즈**는  <b style="color:#00664F;">공부량과 얻어갈 수 있는 경험치가 비례하는 동아리</b>입니다. 한 학기 동안 다양한 토픽을 주제로 개인 발표, 공부, 세미나, 구현, 동료 간 코드 리뷰가 진행됩니다. 운영진은 위 과정을 적극적으로 서포트하며 구성원 전반의 실력 증진을 위해 다양한 자료와 아이디어를 제공하지만, 대신해주진 않습니다. 
 
@@ -133,8 +131,10 @@ date: 2024-08-03
 > 강화시스터즈 1기는 강화학습으로 **지뢰찾기 문제**를 해결했습니다!  
 > 최대 **84%의 승률**을 보인 1기의 활동을 더 알아보고 싶으시다면, 하단의 링크를 참고해주세요.  
 
-(지뢰찾기 플레이하는 gif)  
-(내 Qtable 시각화 움짤)
+![IMG_2460](https://github.com/user-attachments/assets/b6aadaf7-3963-429c-b9bb-4f2d98c8ccf0)
+ 
+![withQtable](https://github.com/user-attachments/assets/1aa48104-0423-444e-8cda-152b44a00c03)
+
 
  <table border="0" style="width: 100%; border-collapse: collapse; table-layout: fixed;">
     <tr>
@@ -150,7 +150,9 @@ date: 2024-08-03
         </td>
     </tr>
 </table>
- 
+
+![image](https://github.com/user-attachments/assets/ae39ee90-c16e-42b3-8166-a6858e1a61c5)
+
 
 ## 모집 인원 
 
