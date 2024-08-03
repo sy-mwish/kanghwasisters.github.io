@@ -16,9 +16,9 @@ date: 2024-08-03
 ## 강화 시스터즈를 소개합니다!
 
 > **강화 시스터즈**는
-이화 최초의 강화학습 동아리로,
- 강화학습에 관심있는 벗들이 모여 중장기 프로젝트를 진행합니다.
-> 
+이화 최초의 강화학습 동아리로,  
+강화학습에 관심있는 벗들이 모여 중장기 프로젝트를 진행합니다.
+
 
 ### 딥러닝부터 강화학습까지
 
@@ -96,15 +96,15 @@ date: 2024-08-03
     </tr>
     <tr>
         <td style="background-color:#edf3ec; font-weight: bold;">모집 기간</td>
-        <td style="background-color:#edf3ec;">~ 2024.02.21.수 23:59까지</td>
+        <td style="background-color:#edf3ec;">~ 2024.08.23(금) 23:59까지</td>
     </tr>
     <tr>
         <td style="background-color:#edf3ec; font-weight: bold;">면접 일시</td>
-        <td style="background-color:#edf3ec;">2024.02.26.월 ~ 2024.02.28.수(3일간)</td>
+        <td style="background-color:#edf3ec;">2024.08.26.월 ~ 2024.08.28.수(3일간)</td>
     </tr>
     <tr>
         <td style="background-color:#edf3ec; font-weight: bold;">선발 안내</td>
-        <td style="background-color:#edf3ec;">2024.02.29.목</td>
+        <td style="background-color:#edf3ec;">2024.08.29.목</td>
     </tr>
     <tr>
         <td style="background-color:#edf3ec; font-weight: bold;">선발 방법</td>
@@ -122,36 +122,61 @@ date: 2024-08-03
 
 
 - 강화 시스터즈는 전면 대면으로 진행되며, OT는 필수 참석입니다. 
-
 - 세부 사항은 변경될 수 있습니다. 
-
 - 활동비는 전부 동아리 활동 및 회식에 사용될 예정이며, 보증금은 학기 종료 후 돌려드립니다. 
 
 ## 강화시스터즈 : 24-1 활동 
 > 강화시스터즈 1기는 강화학습으로 **지뢰찾기 문제**를 해결했습니다!  
-> 최대 **84%의 승률**을 보인 1기의 활동을 더 알아보고 싶으시다면, 하단의 링크를 참고해주세요.  
+> 최대 **84%의 승률**을 보인 1기의 활동을 더 알아보고 싶으시다면,  
+> 하단의 링크를 참고해주세요.  
 
-![IMG_2460](https://github.com/user-attachments/assets/b6aadaf7-3963-429c-b9bb-4f2d98c8ccf0)
+<table border="0" style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+    <tr>
+        <td>
+        <img src="https://github.com/user-attachments/assets/b6aadaf7-3963-429c-b9bb-4f2d98c8ccf0" width=200/>
+        </td>
+        <td>
+        승률 84% 강화학습 에이전트가 푸는 지뢰찾기
+        </td>
+    </tr>
+</table>
+
+**[현재 판 / 행동에 의한 다음 판 / Q-table]**
  
 ![withQtable](https://github.com/user-attachments/assets/1aa48104-0423-444e-8cda-152b44a00c03)
 
 
  <table border="0" style="width: 100%; border-collapse: collapse; table-layout: fixed;">
     <tr>
-        <td style="width: 50%;"><b>세부 활동 기록</b><hr>
-        </td>
-        <td style="width: 50%;"><b>GitHub</b><hr>
+        <td style="width: 50%;"><b>상세 활동 기록</b></td>
+        <td style="width: 50%;"><b>GitHub</b></td>
+    </tr>
+    <tr>
+        <td style="width: 50%;"><b>24-1 ARCHIVES</b>를 참고해주세요. <br><br>
+        <a href="https://kanghwasisters.github.io/categories/RL_session/" style="color: inherit; text-decoration: none;">🔗 1. 강화학습 세션</a> <br>
+        <a href="https://kanghwasisters.github.io/categories/DL_session/" style="color: inherit; text-decoration: none;">🔗 2. 딥러닝 세션</a> <br>
+        <a href="https://kanghwasisters.github.io/categories/projects/" style="color: inherit; text-decoration: none;">🔗 3. 프로젝트 세션</a> <br><br>
+         </td>
+        <td style="width: 50%;"><a href="https://github.com/KanghwaSisters/DQN_minesweeper.git" style="color: inherit; text-decoration: none;">🔗 1. 운영진</a><br>
+        <a href="https://github.com/KanghwaSisters/24-1-MineMasters-01.git" style="color: inherit; text-decoration: none;">🔗 2. 지뢰마스터즈 01팀</a><br>
+        <a href="https://github.com/KanghwaSisters/24-1-MineMasters-02.git" style="color: inherit; text-decoration: none;">🔗 3. 지뢰마스터즈 02팀</a><br>
+        <a href="https://github.com/KanghwaSisters/24-1-AI-EOD-01.git" style="color: inherit; text-decoration: none;">🔗 4. AI 지뢰 제거 부대 01팀</a><br>
+        <a href="https://github.com/KanghwaSisters/24-1-AI-EOD-02.git" style="color: inherit; text-decoration: none;">🔗 5. AI 지뢰 제거 부대 02팀</a><br>
         </td>
     </tr>
     <tr>
-        <td style="width: 50%;"><b>1기 멤버 활동 후기</b><hr>
-        </td>
-        <td style="width: 50%;"><b>활동보고서</b><hr>
-        </td>
+        <td style="width: 50%;"><b>1기 멤버 활동 후기</b></td>
+        <td style="width: 50%;"><b>활동보고서</b></td>
     </tr>
-</table>
+    <tr>
+        <td style="width: 50%;"><a href="https://kanghwasisters.github.io/%ED%99%9C%EB%8F%99%EC%88%98%EA%B8%B0/AfterActivity24_1/" style="color: inherit; text-decoration: none;">🔗 1기 멤버 활동 후기 바로가기 
+         </a></td>
+        <td style="width: 50%;">
+        <img src="https://github.com/user-attachments/assets/ae39ee90-c16e-42b3-8166-a6858e1a61c5"/><br>
+        <a href="https://github.com/KanghwaSisters/Activity-Reports.git" style="color: inherit; text-decoration: none;">🔗 활동보고서 바로가기 </a></td>
+    </tr>
 
-![image](https://github.com/user-attachments/assets/ae39ee90-c16e-42b3-8166-a6858e1a61c5)
+</table>
 
 
 ## 모집 인원 
@@ -171,16 +196,12 @@ date: 2024-08-03
 > 단계를 나눠서 선발하는 이유는 딥러닝과 강화학습에 대한 문턱값을 낮추고, 서로 이끌어주며 배워가는 학풍의 동아리를 만들기 위함입니다. 
 ### 01 단계_3명
 
-첫 번째 단계는 파이썬 및 딥러닝 초보자를 위한 단계입니다. 이 단계는 
+첫 번째 단계는 파이썬 및 딥러닝 초보자를 위한 단계입니다. 이 단계는 좀 더 쉬운 단계의 구현을 담당하게 됩니다. 기초적인 딥러닝 능력을 쌓고, 강화학습을 비롯한 실질적인 구현을 배울 수 있습니다. 
 
-이 세션은 타 세션
-이 세션은 타 세션에 비해 난이도가 낮은 테스크를 수행합니다. 예제를 이론을 기반으로 분해해 이해하고, 작은 단위의 코딩을 주로 연습하며 실질적인 딥러닝 및 강화학습 코드 구현능력 향상을 목표로 합니다. 
 
 ### 02 단계_ 5명
 
-두 번째 세션은 딥러닝에 대한 대략적인 지식이 있지만 프로젝트 경험이 부족한 벗들을 위한 세션입니다. 이 세션은 프로젝트 단위를 점차 넓히며, 주어진 예제에서 벗어난 자유도가 높은 프로젝트 구현 및 운영 능력 향상을 목표로 합니다. 
-
- 
+두 번째 단계는 딥러닝에 대한 대략적인 지식이 있지만 프로젝트 경험이 부족한 벗들을 위한 단계입니다. 이 단계는 주어진 예제에서 벗어난 자유도가 높은 프로젝트 구현 및 운영 능력 향상을 목표로 합니다. 
 
 
 
@@ -213,7 +234,7 @@ date: 2024-08-03
 
 ### 실력 점검표
 
-🚨 아래 추천 단계 기준은 **2월 말 면접 때까지 필요한 코딩 및 딥러닝 실력**입니다. 현재는 파이썬 및 딥러닝이 미숙하지만 방학 동안 내용을 독학해 따라잡고자 하시는 분이 있다면, **각 분야의 00부터 01까지를 공부하고 01 단계 지원을 권장** 드립니다! 또한 코딩 테스트는 길잡이를 위해 코딩 테스트와 **유사한 예제를 제공**하고 있습니다. 이 두 개의 자료를 참고하여 코딩 테스트와 면접을 준비 하신다면 좋은 결과를 얻어가실 수 있을거라 확신합니다. 😄
+🚨 아래 추천 단계 기준은 **8월 말 면접 때까지 필요한 코딩 및 딥러닝 실력**입니다. 현재는 파이썬 및 딥러닝이 미숙하지만 방학 동안 내용을 독학해 따라잡고자 하시는 분이 있다면, **각 분야의 00부터 01까지를 공부하고 01 단계 지원을 권장** 드립니다! 또한 코딩 테스트는 길잡이를 위해 코딩 테스트와 **유사한 예제를 제공**하고 있습니다. 이 두 개의 자료를 참고하여 코딩 테스트와 면접을 준비 하신다면 좋은 결과를 얻어가실 수 있을거라 확신합니다. 😄
 
 ---
 
@@ -351,7 +372,6 @@ date: 2024-08-03
 
 
 > **추천 단계**
-> 
 >>  파이썬 01 + 딥러닝 01 → 01 단계  
 >> 파이썬 01 + 딥러닝 02 or 03 → 02 단계  
 
@@ -371,9 +391,52 @@ date: 2024-08-03
 
 코딩 테스트를 준비하며 새로 알게 된 지식이나, 문제를 해결한 방식, 느낀점, 구현물에서 자랑하고 싶은 점 등을 자유롭게 작성해주세요! 분량은 평가 항목이 아니며, 아래 **개발 보고서 양식 및 예시**를 참고해 제목 양식을 확인해주세요. 
 
-[코딩 테스트 문제](https://www.notion.so/2405f89df79d4ce8a922158980224d74?pvs=21)
+#### 코딩 테스트 문제 
+지원하고자하는 단계의 문제를 풀어 제출하시면 됩니다. 
 
-[개발 보고서 양식 및 예시](https://www.notion.so/058d03dccfee40ee8dc973db660e8272?pvs=21)
+ <table border="0" style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <td colspan="2" style="background-color:#f3f3f3;"> 
+        <br>
+        <aside>🚨  <b>공유 권한</b>을 주셔야 합니다.
+
+공유 권한을 설정해주시지 않으면, 코드를 확인할 수 없어 **자동 탈락처리**됩니다. 🥲
+
+---
+
+⭕️  공유 -> 링크가 있는 모든 사용자 -> 링크 복사 -> 폼에 작성  
+❌ 상단 링크 복붙
+
+</aside> </td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+<table style="width: 100%; border-collapse: collapse; ">
+<tr>
+    <td style="width: 15%; font-weight: bold;">단계 구분</td>
+    <td style="font-weight: bold;">예제</td>
+    <td style="font-weight: bold;">문제</td>
+</tr>
+<tr>
+    <td style="font-weight: bold;">01 단계</td>
+    <td style="width: 40%;"><a href="https://colab.research.google.com/drive/1H7KA3WD9U2ueMfYLaQvI_sVaX09pccjN?usp=sharing" style="color: inherit; text-decoration: none;">🔗 예제 바로가기</a></td>
+    <td style="width: 40%;"><a href="https://colab.research.google.com/drive/1H7KA3WD9U2ueMfYLaQvI_sVaX09pccjN?usp=sharing" style="color: inherit; text-decoration: none;">🔗 문제 바로가기</a></td>
+</tr>
+<tr>
+    <td style="font-weight: bold;">02 단계</td>
+    <td style="width: 40%;"><a href="https://colab.research.google.com/drive/1W6Y8sj_M94qbkVWWcrcuD1_DDsL9FUB3?usp=sharing" style="color: inherit; text-decoration: none;">🔗 예제 바로가기</a></td>
+    <td style="width: 40%;"><a href="https://colab.research.google.com/drive/1AkM_31Akz6deNSjbvUqtdfGIIcmZ6WQ5?usp=sharing" style="color: inherit; text-decoration: none;">🔗 문제 바로가기</a></td>
+</tr>
+</table>
+
+#### 개발 보고서에 대하여
+[🔗 개발 보고서 양식 및 예시](https://www.notion.so/058d03dccfee40ee8dc973db660e8272?pvs=21)
+
+<br>
+<br>
 
 <table border="0" style="width: 100%; border-collapse: collapse;">
     <tr>
@@ -381,21 +444,17 @@ date: 2024-08-03
     </tr>
     <tr>
         <td style="background-color:#edf3ec; font-weight: bold;">제출 마감일</td>
-        <td style="background-color:#edf3ec;">2024.02.21.수 23:59 (모집 마감일과 동일)</td>
+        <td style="background-color:#edf3ec;"> 2024.08.23(금) 23:59까지 (모집 마감일과 동일)</td>
     </tr>
     <tr>
         <td style="background-color:#edf3ec; font-weight: bold;">제출 장소</td>
         <td style="background-color:#edf3ec;">
-        <a href="https://forms.gle/R6Qho7H3zBBvCRgC6" style="color: inherit; text-decoration: none;">https://forms.gle/R6Qho7H3zBBvCRgC6</a>
+        <a href="https://forms.gle/eo2ymLtTneEcaYQs7" style="color: inherit; text-decoration: none;">https://forms.gle/eo2ymLtTneEcaYQs7</a>
         </td>
     </tr>
     <tr>
         <td style="background-color:#edf3ec; font-weight: bold;">제출 목록</td>
         <td style="background-color:#edf3ec;">간단한 자기소개 + 코테를 푼 코랩 링크 + 보고서 + 기타 작업물(필수 X)</td>
-    </tr>
-    <tr>
-        <td style="background-color:#edf3ec; font-weight: bold;">제출 마감일</td>
-        <td style="background-color:#edf3ec;">2024.02.21.수 23:59 (모집 마감일과 동일)</td>
     </tr>
     <tr>
         <td colspan="2" style="background-color:#edf3ec;"><br>
@@ -414,7 +473,7 @@ date: 2024-08-03
 ### 면접
 
  **면접**은 **코딩 테스트에서 구현한 코드 리뷰**로 진행되며, 동시 면접 인원은 최대 3명까지 늘어날 수 있습니다.  
-코테와 보고서를 작성한 모든 벗들과 면접을 진행할 예정이며, 대면 면접을 기본으로 하지만 불가피한 사정이 있을 시 조정이 가능합니다. 
+코테와 보고서를 작성한 대부분의 벗들과 면접을 진행할 예정이며, 대면 면접을 기본으로 하지만 불가피한 사정이 있을 시 조정이 가능합니다. 
 
 <table border="0" style="width: 100%; border-collapse: collapse;">
     <tr>
@@ -422,7 +481,7 @@ date: 2024-08-03
     </tr>
     <tr>
         <td style="background-color:#edf3ec; font-weight: bold;">면접 일시</td>
-        <td style="background-color:#edf3ec;">2024.02.26.월 ~ 2024.02.28.수(3일간)</td>
+        <td style="background-color:#edf3ec;">2024.08.26.월 ~ 2024.08.28.수(3일간)</td>
     </tr>
     <tr>
         <td style="background-color:#edf3ec; font-weight: bold;">면접 장소</td>
@@ -430,7 +489,7 @@ date: 2024-08-03
     </tr>
     <tr>
         <td style="background-color:#edf3ec; font-weight: bold;">선발 안내</td>
-        <td style="background-color:#edf3ec;">2024.02.29.목 </td>
+        <td style="background-color:#edf3ec;">2024.08.29.목 </td>
     </tr>
 </table>
 
