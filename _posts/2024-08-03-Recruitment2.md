@@ -44,7 +44,7 @@ date: 2024-08-03
 
 ### 간략한 Syllabus
 
-<table border="0" style="width: 100%; border-collapse: collapse;">
+<table border="0" style="width: 100%; border-collapse: collapse; table-layout: fixed;">
     <tr>
         <td colspan="2" style="background-color:#f3f3f3;font-weight: bold;">🗓️ 세부 일정</td>
     </tr>
