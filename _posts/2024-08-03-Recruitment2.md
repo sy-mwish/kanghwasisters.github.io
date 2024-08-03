@@ -396,20 +396,21 @@ date: 2024-08-03
 
  <table border="0" style="width: 100%; border-collapse: collapse;">
     <tr>
-        <td colspan="2" style="background-color:#f3f3f3;"> 
-        <br>
-        <aside>🚨  <b>공유 권한</b>을 주셔야 합니다.
-
-공유 권한을 설정해주시지 않으면, 코드를 확인할 수 없어 **자동 탈락처리**됩니다. 🥲
-
----
-
-⭕️  공유 -> 링크가 있는 모든 사용자 -> 링크 복사 -> 폼에 작성  
-❌ 상단 링크 복붙
-
-</aside> </td>
+        <td colspan="2" style="background-color: #f3f3f3; padding: 10px;">
+            <aside>
+                🚨 <b>공유 권한</b>을 주셔야 합니다.
+                <br><br>
+                공유 권한을 설정해주시지 않으면, 코드를 확인할 수 없어 <b>자동 탈락처리</b>됩니다. 🥲
+                <br><br>
+                <hr style="border: none; border-top: 1px solid #ccc;">
+                ⭕️ 공유 -> 링크가 있는 모든 사용자 -> 링크 복사 -> 폼에 작성
+                <br>
+                ❌ 상단 링크 복붙
+            </aside>
+        </td>
     </tr>
 </table>
+
 
 <br>
 <br>
@@ -435,7 +436,6 @@ date: 2024-08-03
 #### 개발 보고서에 대하여
 [🔗 개발 보고서 양식 및 예시](https://www.notion.so/058d03dccfee40ee8dc973db660e8272?pvs=21)
 
-<br>
 <br>
 
 <table border="0" style="width: 100%; border-collapse: collapse;">
