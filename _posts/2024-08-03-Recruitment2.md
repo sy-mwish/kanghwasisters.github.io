@@ -424,7 +424,7 @@ date: 2024-08-03
 <tr>
     <td style="font-weight: bold;">01 단계</td>
     <td style="width: 40%;"><a href="https://colab.research.google.com/drive/1H7KA3WD9U2ueMfYLaQvI_sVaX09pccjN?usp=sharing" style="color: inherit; text-decoration: none;">🔗 예제 바로가기</a></td>
-    <td style="width: 40%;"><a href="https://colab.research.google.com/drive/1H7KA3WD9U2ueMfYLaQvI_sVaX09pccjN?usp=sharing" style="color: inherit; text-decoration: none;">🔗 문제 바로가기</a></td>
+    <td style="width: 40%;"><a href="https://colab.research.google.com/drive/1JVarMO-JiTgWJLXUxhHiEOmohndEVWSW" style="color: inherit; text-decoration: none;">🔗 문제 바로가기</a></td>
 </tr>
 <tr>
     <td style="font-weight: bold;">02 단계</td>
@@ -433,7 +433,7 @@ date: 2024-08-03
 </tr>
 </table>
 
-#### 개발 보고서에 대하여
+#### 개발 보고서 양식
 [🔗 개발 보고서 양식 및 예시](https://www.notion.so/058d03dccfee40ee8dc973db660e8272?pvs=21)
 
 <br>
