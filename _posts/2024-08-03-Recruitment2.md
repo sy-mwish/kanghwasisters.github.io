@@ -8,6 +8,10 @@ toc: true
 toc_sticky: true
 comments: true
 author: Jimin Lee
+header:
+  image: https://github.com/user-attachments/assets/af596022-ab71-4423-b96a-f2eb6cd96111
+
+
 
 date: 2024-08-03
 
