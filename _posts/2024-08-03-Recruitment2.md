@@ -10,6 +10,7 @@ comments: true
 author: Jimin Lee
 header:
   image: https://github.com/user-attachments/assets/af596022-ab71-4423-b96a-f2eb6cd96111
+  teaser: https://github.com/user-attachments/assets/af596022-ab71-4423-b96a-f2eb6cd96111
 
 
 
