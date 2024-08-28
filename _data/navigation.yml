@@ -9,11 +9,11 @@ main:
  
 # side bar 
 sidebar-category:
-  - title: "강화시스터즈 활동 내역"
+  - title: "활동 내역"
     children:
       - title: "공지"
         url:  "/categories/etc/"
-      - title: "활동 수기"
+      - title: "아카이브"
         url:  "/categories/reports/"
       
 
