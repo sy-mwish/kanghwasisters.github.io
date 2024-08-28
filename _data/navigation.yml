@@ -2,8 +2,8 @@
 main:
   - title: "AboutUs"
     url: /AboutUS/
-  - title: "Achivements"
-    url: /Achievements/
+  - title: "Projects"
+    url: /Projects/
   - title: "Members"
     url: /Members/
  
