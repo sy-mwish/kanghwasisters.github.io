@@ -1,8 +1,8 @@
 ---
-title: 활동수기
+title: 아카이브
 layout: category
 permalink: /categories/reports/
-taxonomy: 활동수기
+taxonomy: 아카이브
 ---
 
 {% assign posts = site.categories.categories %}
