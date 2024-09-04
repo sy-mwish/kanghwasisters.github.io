@@ -128,11 +128,10 @@ Minsuh Joo:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/juminseo19?igsh=aG00ajFqaWswNXow&utm_source=qr"
 
-
 Chaeyeon Lee:
-  name : "Chaeyeon Lee"
-  bio : "이화여자대학교에서 문헌정보학 주전, 통계학 복전을 하고 있습니다. ML/DL/RL 분야를 공부하고 있습니다. ESAA 통계학회 8기 운영진이었으며 강화시스터즈 동아리 2기 부원으로 활동하고 있습니다."
-  avatar : "assets/image/members/ChaeyeonLee.jpg"
+  name        : "Chaeyeon Lee"
+  bio         : "이화여자대학교에서 문헌정보학 주전, 통계학 복전을 하고 있습니다. ML/DL/RL 분야를 공부하고 있습니다. ESAA 통계학회 8기 운영진이었으며 강화시스터즈 동아리 2기 부원으로 활동하고 있습니다."
+  avatar      : "assets/image/members/ChaeyeonLee.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -142,13 +141,13 @@ Chaeyeon Lee:
       url: "https://github.com/CheayeonLee"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url:"https://www.instagram.com/le_cheann?igsh=MTUwNGRjbmhxMG43OA%3D%3D&utm_source=qr"
+      url: "https://www.instagram.com/le_cheann?igsh=MTUwNGRjbmhxMG43OA%3D%3D&utm_source=qr"
 
 Yewon Jang:
   name : "Yewon Jang"
-  bio : "이화여자대학교에서 통계학 주전, 경영학 복전을 하고 있습니다. 강화시스터즈 2기 구성원으로 합류했습니다.”
+  bio : "이화여자대학교에서 통계학 주전, 경영학 복전을 하고 있습니다. 강화시스터즈 2기 구성원으로 합류했습니다."
   avatar : "assets/image/members/YewonJang.jpg"
-  links:
+  links:   
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:grace0039@naver.com”
