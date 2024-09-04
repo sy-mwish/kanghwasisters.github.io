@@ -3,16 +3,11 @@ title: "[강화시스터즈 2기] 모집공고"
 excerpt: 강화시스터즈 2기를 모집합니다! # 미리보기로 보이는 부분
 categories: 기타
 tags: 
-    - [공지, 모집]
+    - [공지, 모집, 이지민]
 toc: true
 toc_sticky: true
 comments: true
 author: Jimin Lee
-header:
-  image: https://github.com/user-attachments/assets/af596022-ab71-4423-b96a-f2eb6cd96111
-  teaser: https://github.com/user-attachments/assets/af596022-ab71-4423-b96a-f2eb6cd96111
-
-
 
 date: 2024-08-03
 

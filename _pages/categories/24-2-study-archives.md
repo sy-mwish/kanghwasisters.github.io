@@ -1,8 +1,8 @@
 ---
-title: 24-2 공부 기록
+title: 24-2 개인 발표
 layout: category
 permalink: /categories/24-2-study-records/
-taxonomy: 24-2 공부 기록 
+taxonomy: 24-2 개인 발표
 ---
 
 {% assign posts = site.categories.categories %}
