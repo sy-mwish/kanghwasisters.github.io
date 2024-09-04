@@ -154,3 +154,30 @@ Yewon Jang:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: " https://github.com/grace0039"
+
+Hyunseo Kim:
+  name : "Hyunseo Kim"
+  bio : "이화여자대학교에서 휴먼기계바이오공학을 전공하고 있습니다. 강화시스터즈 2기 부원이며 로보틱스 분야를 맡고 있습니다."
+  avatar : "assets/image/members/HyunseoKim.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rlagustj812@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/HyunseoKim812"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/hyyu_n_?igsh=aWJwMWYxaGJlaWl1&utm_source=qr"
+
+Seoyeon Ahn:
+  name : "Seoyeon Ahn"
+  bio : "이화여자대학교에서 컴퓨터공학 주전, 생명과학 복전을 하고 있습니다. DL/RL분야를 공부하고 있습니다. 강화시스터즈 2기 부원으로 활동하고 있습니다."
+  avatar : "assets/image/members/SeoyeonAhn.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aliceasy504@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sy-mwish"
