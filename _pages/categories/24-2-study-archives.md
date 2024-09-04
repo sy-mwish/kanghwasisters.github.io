@@ -2,7 +2,7 @@
 title: "24-2개인발표"
 layout: archive
 permalink: /categories/24-2-study-archives/
-taxonomy: 24-2개인발표
+taxonomy: "24-2개인발표"
 author_profile: true
 types: posts
 ---
