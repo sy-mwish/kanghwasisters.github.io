@@ -1,6 +1,6 @@
 ---
 title: "[DL] 딥러닝 개론"
-excerpt: 강화시스터즈 2기 OT 및 회식 진행 
+excerpt: 딥러닝 정의, 딥러닝 학습 과정
 categories: 24-2개인발표
 tags: 
     - [DL, 이지민]
