@@ -1,8 +1,8 @@
 ---
-title: 24-2 프로젝트
+title: 24-2프로젝트
 layout: category
 permalink: /categories/24-2-projects/
-taxonomy: 24-2 프로젝트
+taxonomy: 24-2프로젝트
 ---
 
 {% assign posts = site.categories.categories %}
