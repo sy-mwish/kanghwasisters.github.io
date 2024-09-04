@@ -3,7 +3,6 @@ title: "24-2메인세션"
 layout: archive
 permalink: /categories/24-2-main-session/
 taxonomy: 24-2메인세션
-types: posts
 ---
 
 {% assign posts = site.categories.categories %}

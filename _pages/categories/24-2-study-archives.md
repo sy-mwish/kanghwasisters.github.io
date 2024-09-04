@@ -3,7 +3,6 @@ title: "24-2개인발표"
 layout: archive
 permalink: /categories/24-2-study-archives/
 taxonomy: 24-2개인발표
-types: posts
 ---
 
 {% assign posts = site.categories.categories %}
