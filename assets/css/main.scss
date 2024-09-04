@@ -8,3 +8,9 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap'); // font
+@media (min-width: 80em)
+{
+    #main {
+        max-width: 1500px !important;
+    }
+}

@@ -1,6 +1,6 @@
 ---
 title: "24-2개인발표"
-layout: archive
+layout: category
 permalink: /categories/24-2-study-archives/
 taxonomy: 24-2개인발표
 ---
