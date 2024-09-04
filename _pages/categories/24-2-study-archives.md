@@ -1,7 +1,7 @@
 ---
 title: 24-2 개인 발표
 layout: category
-permalink: /categories/24-2-study-records/
+permalink: /categories/24-2-study-archives/
 taxonomy: 24-2 개인 발표
 ---
 

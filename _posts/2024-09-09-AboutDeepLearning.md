@@ -1,7 +1,7 @@
 ---
 title: "[DL] 딥러닝 개론"
 excerpt: 강화시스터즈 2기 OT 및 회식 진행 
-categories: 24-2 개인 발표
+categories: 개인 발표
 tags: 
     - [DL, 이지민]
 toc: true
