@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    
+    <!-- Your Content Section -->
+    <div class="archive__item">
+      <div class="archive__item-teaser">
+        <!-- Teaser image goes here -->
+        <img src="{{ page.image }}" alt="Teaser Image">
+      </div>
+
+      <div class="archive__item-content">
+        <div class="archive__item-title">
+          {{ page.title }}
+        </div>
+
+        <div class="archive__item-meta">
+          <span>{{ page.date | date: "%B %d, %Y" }}</span> • 
+          <span>{{ page.reading_time }} minute read</span> • 
+          <span>{{ page.tags }}</span>
+        </div>
+      </div>
+    </div>
+    <!-- End Content Section -->
+    
+    {{ content }}
+  </div>
+</div>
