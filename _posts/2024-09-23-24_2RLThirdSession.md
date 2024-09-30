@@ -8,6 +8,7 @@ toc: true
 toc_sticky: true
 comments: true
 use_math: true
+author: Jimin Lee  
 header:
   teaser: ../assets/image/Thumbnail/2024_2_MainSession.png
 

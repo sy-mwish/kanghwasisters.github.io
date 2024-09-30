@@ -12,7 +12,7 @@ author: Jimin Lee
 header:
   teaser: ../assets/image/Thumbnail/2024_2_MainSession.png
 
-date: 2024-09-09
+date: 2024-09-08
 
 ---
 # 2주차 강화학습 세션
