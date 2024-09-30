@@ -3,7 +3,7 @@ title: "[02주차 / 강화학습세션] 강화학습 개론, 협업에 대하여
 excerpt: "MDP, Git, Github, Basic RL" 
 categories: 24-2메인세션
 tags: 
-    - [RL, 이지민, 이승연]
+    - [RL, 이지민]
 toc: true
 toc_sticky: true
 comments: true
